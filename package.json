@@ -1,5 +1,5 @@
 {
-  "name": "ebml",
+  "name": "ebml-2_1_0-encoder-only",
   "version": "2.1.0",
   "description": "ebml parser",
   "main": "index.js",
